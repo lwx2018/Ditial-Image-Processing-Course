@@ -1,0 +1,32 @@
+﻿  main.cpp
+c:\users\学习者\desktop\vsctest\test1\test1\main.cpp(18): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\学习者\desktop\vsctest\test1\test1\main.cpp(52): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\学习者\desktop\vsctest\test1\test1\main.cpp(54): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\学习者\desktop\vsctest\test1\test1\main.cpp(56): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\学习者\desktop\vsctest\test1\test1\main.cpp(58): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\学习者\desktop\vsctest\test1\test1\main.cpp(112): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  test1.vcxproj -> C:\Users\学习者\Desktop\vsctest\test1\x64\Debug\test1.exe
