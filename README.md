@@ -62,8 +62,11 @@
 
 
 2.4算法效果
+<img width="384" alt="image" src="https://user-images.githubusercontent.com/40064484/142761944-a29dcecd-7e48-4f8e-ac96-51f28f47e051.png">
+
 
 滤波前
+<img width="384" alt="image" src="https://user-images.githubusercontent.com/40064484/142761950-917ca74a-0f90-4444-b98d-9937c5a12758.png">
 
 滤波后
 
