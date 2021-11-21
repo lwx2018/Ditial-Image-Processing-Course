@@ -1,7 +1,10 @@
 # Ditial-Image-Processing-Course
 2021数字图像处理课程作业
+
 一、lomo滤镜
+
 1.1 运行环境
+
 ·VS2017
 ·opencv-3.4.16-vc14_vc15
 ·Windows10
@@ -20,12 +23,15 @@
 ·改变图像尺寸至合适大小
 可能有些图像过大，不适合视觉上的处理，由此，设立一个阈值，超出此阈值的图像调整其尺寸。
 1.4算法效果
+<img width="415" alt="image" src="https://user-images.githubusercontent.com/40064484/142761848-88d87555-911d-4182-acc0-aa39ef425578.png">
 
 滤波前
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/40064484/142761856-63f81499-0659-45b1-b1f0-d2f257b6b3f7.png">
 
 滤波后
 
 二、人像美肤
+
 2.1 运行环境
 ·VS2017
 ·opencv-3.4.16-vc14_vc15
