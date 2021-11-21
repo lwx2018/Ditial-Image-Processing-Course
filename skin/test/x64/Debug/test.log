@@ -1,0 +1,13 @@
+﻿  test.cpp
+c:\users\学习者\desktop\vsctest\skin\test\test.cpp(87): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\学习者\desktop\vsctest\skin\test\test.cpp(118): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\学习者\desktop\vsctest\skin\test\test.cpp(141): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  test.vcxproj -> C:\Users\学习者\Desktop\vsctest\skin\x64\Debug\test.exe
